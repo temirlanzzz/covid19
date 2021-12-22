@@ -1,0 +1,53 @@
+Message-ID: <ef8cec9ad5241adfbbf879fd2b06a177@covid19.loc>
+Date: Wed, 10 Nov 2021 08:03:19 +0100
+Subject: Account registration at My Application
+From: My Application robot <support@example.com>
+To: temirlan.zarymkanov@nu.edu.kz
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1636527799_1287c1b90df1431c9960af338f8d5e2a_=_"
+
+
+--_=_swift_1636527799_1287c1b90df1431c9960af338f8d5e2a_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Hello temirzzz,
+
+Follow the link below to verify your email:
+
+http:=
+//covid19.loc/site/verify-email?token=3DF91WQkr0S4H9l4XvZn8xvEajIqeyik24_16=
+36527799
+
+--_=_swift_1636527799_1287c1b90df1431c9960af338f8d5e2a_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/=
+xhtml">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/ht=
+ml; charset=3DUTF-8" />
+    <title></title>
+    </head>
+<body>
+    =
+    <div class=3D"verify-email">
+    <p>Hello temirzzz,</p>
+
+    <p>F=
+ollow the link below to verify your email:</p>
+
+    <p><a href=3D"http:=
+//covid19.loc/site/verify-email?token=3DF91WQkr0S4H9l4XvZn8xvEajIqeyik24_16=
+36527799">http://covid19.loc/site/verify-email?token=3DF91WQkr0S4H9l4XvZn8x=
+vEajIqeyik24_1636527799</a></p>
+</div>
+    </body>
+</html>
+
+
+--_=_swift_1636527799_1287c1b90df1431c9960af338f8d5e2a_=_--
